@@ -1,0 +1,32 @@
+
+.rect{
+    width: 60%;
+    height: 50%;
+     position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    margin: auto;
+    background-color: lavender;
+}
+
+.send{
+    display: inline-block;
+    position: fixed;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    padding-left: 400px;
+    padding-bottom: 80px;
+    width: 200px;
+    height: 100px;
+    margin: auto;
+}
+
+.wid{
+    width: 250px;
+}
+
+
